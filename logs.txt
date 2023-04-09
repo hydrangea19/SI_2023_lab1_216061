@@ -1,0 +1,28 @@
+commit bf7584799388d1b98af602bfee78381ba9270091 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Diellza <diellza.zaimi@gmail.com>
+Date:   Sun Apr 9 20:53:51 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 1991f4570b64514d4fa6944c8cf9fabfdf01e831
+Merge: 906bdf5 87f3a09
+Author: Diellza <diellza.zaimi@gmail.com>
+Date:   Sun Apr 9 21:01:57 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 87f3a09e5276403fb6d73abadbaa2aa706f21444 (origin/bug2, bug2)
+Author: Diellza <diellza.zaimi@gmail.com>
+Date:   Sun Apr 9 20:51:16 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 906bdf5adb3ccb9f4ffd172924a65ce4d1d39e88 (origin/bug1, bug1)
+Author: Diellza <diellza.zaimi@gmail.com>
+Date:   Sun Apr 9 20:44:50 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 83c0c18a0cdb8df7dc3ab5abf74ff042274ef688
+Author: Diellza <diellza.zaimi@gmail.com>
+Date:   Sun Apr 9 20:30:13 2023 +0200
